@@ -1,20 +1,20 @@
-------------------------------------------- PROBLEM SATATEMENT C++ ------------------------------------------------
 
-------------------------------------------------- DAY_13 ------------------------------------------------------
+-------------------------------------- PROBLEM SATATEMENT C++----------------------------------------
 
-                                  ## Q49. WAP to Linear Search.
-                                  ## Q50. WAP to Freqency  of an element.
-                                  ## Q51. WAP to Second largest element.
-                                  ## Q52. WAP to find duplicates in array.
+------------------------------------------------- DAY_15---------------------------------------
+
+                                  ## Q57. WAP to Reverse array.
+                                  ## Q58. WAP to Rotate array left.
+                                  ## Q59. WAP to Rotate array right.
+                                  ## Q60. WAP to Move zeroes to end.
         
         ################################ CONCEPTS USED ##############################
 
                                 -- ARRAYS
-                                -- PATTERN LOGIC
-                                -- NUMBER-BASED PROBLEMS
-                                -- LOOPS
-                                -- CONDITIONAL STATEMENTS 
-                                -- BASIC ARRAY OPERATIONS
+                                -- ARRAY TRAVERSAL
+                                -- ELEMENT SWAPPING 
+                                -- ARRAY ROTATION
+                                -- TWO POINTER TECHNIQUE
         
         ********************************** ## LANGUAGE *********************
 
@@ -22,9 +22,9 @@
 
         ############################### FILES NAMES #######################
 
-                        -- Problem_53.cpp
-                        -- Problem_54.cpp
-                        -- Problem_55.cpp
-                        -- Problem_56.cpp
+                        -- Problem_57.cpp
+                        -- Problem_58.cpp
+                        -- Problem_59.cpp
+                        -- Problem_60.cpp
                                                 
          
