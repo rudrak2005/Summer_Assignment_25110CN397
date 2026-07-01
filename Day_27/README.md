@@ -2,10 +2,10 @@
 
   ## Problems Statement
 
-     Q93. WAP to Create student record management system.
-     Q94. WAP to Create employee  management system.
-     Q95. WAP to Create salary management system.
-     Q96. WAP to Create marksheet generation system.
+     Q105. WAP to Create student record management system.
+     Q106. WAP to Create employee  management system.
+     Q107. WAP to Create salary management system.
+     Q108. WAP to Create marksheet generation system.
   ## Concepts Used
     -- OOPS
     -- Classes and Objects 
